@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Website documentation template with Docusaurus Example
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/ducowebdoc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Demo [https://presto-nine.vercel.app](https://presto-nine.vercel.app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Documentation →](https://www.hockeycomputindo.com/2021/05/free-download-website-doc-themes.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%20%281%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+home page light mode
 
-# Header 1
-## Header 2
-### Header 3
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%20%282%29.png/max/max/1)
 
-- Bulleted
-- List
+home page dark mode
 
-1. Numbered
-2. List
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%20%285%29.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+documentation page light mode
 
-[Link](url) and ![Image](src)
-```
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%20%283%29.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+documentation page dark mode
 
-### Jekyll Themes
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%20%284%29.png/max/max/1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/ducowebdoc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+blog page
 
-### Support or Contact
+![free website template ducosaurus documentation web themes](https://a.fsdn.com/con/app/proj/cloudpos/screenshots/website%20template%20themes%20free%20download%201.png/max/max/1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+blog page dark mode
+
+
+---------------
+
+Download this source code
++ [sourceforge →](https://sourceforge.net/projects/cloudpos/)
++ [github →](https://github.com/mesinkasir/ducowebdoc)
++ [read documentation →](https://www.hockeycomputindo.com/2021/05/free-download-website-doc-themes.html)
+---------------
+
+Need to install
++ Node
+---------------
+Work :
+
+run with node
++ npm install
++ npm run start
++ open web browser localhost:3000
+
+---------------
+
+
+Features :
+home page
+doc page
+blog page
+light mode
+dark mode
+
+---------------
+
+Hapy codding..................
