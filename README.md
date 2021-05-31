@@ -33,20 +33,20 @@ blog page dark mode
 ---------------
 
 Download this source code
-+[sourceforge →](https://sourceforge.net/projects/cloudpos/)
-+[github →](https://github.com/mesinkasir/ducowebdoc)
-+[read documentation →](https://www.hockeycomputindo.com/2021/05/free-download-website-doc-themes.html)
++ [sourceforge →](https://sourceforge.net/projects/cloudpos/)
++ [github →](https://github.com/mesinkasir/ducowebdoc)
++ [read documentation →](https://www.hockeycomputindo.com/2021/05/free-download-website-doc-themes.html)
 ---------------
 
 Need to install
-+Node
++ Node
 ---------------
 Work :
 
 run with node
-+npm install
-+npm run start
-+open web browser localhost:3000
++ npm install
++ npm run start
++ open web browser localhost:3000
 
 ---------------
 
